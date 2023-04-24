@@ -1,1 +1,4 @@
   * Tortue 
+  * Elephant
+  * Chat
+  * Chien 
