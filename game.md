@@ -1,2 +1,3 @@
   * Tortue 
+  * Chat
   * Géniale
