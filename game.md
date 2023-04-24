@@ -2,3 +2,4 @@
   * Chat
   * Géniale
   * Formidable
+  * Terminé
