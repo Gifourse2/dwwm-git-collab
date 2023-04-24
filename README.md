@@ -2,6 +2,6 @@
 bastons des mots 
 
 ## collabos 
-  * Quentin ORIAS: [Tableau](https://github.com/Rasenti) 
-  * [Améliah LOUIS]  
-  * Camille JANIN 
+  * Quentin ORIAS: [Tableau](git@github.com:Rasenti/dwwm-git-collab.git) 
+  * Améliah LOUIS: [Liste](git@github.com:Ameliah-Louis/dwwm-git-collab.git)  
+  * Camille JANIN: liste numéroté 
